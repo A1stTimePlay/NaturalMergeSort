@@ -9,14 +9,15 @@ class TwoWays
 private:
 	int LengthA;
 	int LengthB;
-	int A[10];
-	int B[10];
-	int C[10];
+	float *A;
+	float *B;
 
 public:
 	TwoWays();
 	~TwoWays();
 	void ReadData(string fileName);
-	void ShowRawData();
+	void ShowOnScreen();
+	void Merge();
+	int getLengthB();
 };
 

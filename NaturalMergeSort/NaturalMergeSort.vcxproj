@@ -152,9 +152,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="NaturalMergeSort.cpp" />
+    <ClCompile Include="ThreeWays.cpp" />
     <ClCompile Include="TwoWays.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ThreeWays.h" />
     <ClInclude Include="TwoWays.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

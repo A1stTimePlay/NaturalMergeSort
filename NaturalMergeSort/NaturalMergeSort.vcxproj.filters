@@ -21,9 +21,15 @@
     <ClCompile Include="TwoWays.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ThreeWays.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TwoWays.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreeWays.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

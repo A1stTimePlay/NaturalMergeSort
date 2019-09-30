@@ -338,3 +338,14 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+10MB.binary
+20MB.binary
+30MB.binary
+40MB.binary
+50MB.binary
+60MB.binary
+70MB.binary
+80MB.binary
+90MB.binary
+100MB.binary
